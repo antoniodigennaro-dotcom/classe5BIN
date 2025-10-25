@@ -5,3 +5,4 @@
  * olio
  * peperoncino
  * prezzemolo
+ * Sale
