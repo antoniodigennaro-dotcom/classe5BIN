@@ -6,3 +6,4 @@
  * peperoncino
  * prezzemolo
  * Sale
+ * pepe
